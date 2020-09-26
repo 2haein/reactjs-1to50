@@ -1,2 +1,0 @@
-(this["webpackJsonpreactjs-1to50"]=this["webpackJsonpreactjs-1to50"]||[]).push([[0],{3:function(t,e,n){t.exports=n(8)},8:function(t,e,n){"use strict";n.r(e);var r=n(0),o=n.n(r),a=n(2);var c=function(){return o.a.createElement("div",null,"one-to-fifty")};n.n(a).a.render(o.a.createElement(c,null),document.getElementById("root"))}},[[3,1,2]]]);
-//# sourceMappingURL=main.fcb00cee.chunk.js.map
