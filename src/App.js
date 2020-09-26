@@ -26,9 +26,10 @@
 // export default App;
 
 import React from "react";
+import OneToFifty from "./OneToFifty";
 
 function App() {
-  return <div>one-to-fifty</div>;
+  return <OneToFifty></OneToFifty>;
 }
 
 export default App;
